@@ -87,7 +87,7 @@ const Index = () => {
             <h1 className="font-display text-5xl md:text-7xl leading-[1.05] text-primary mb-6 text-balance">
               Врач нового<br />поколения
             </h1>
-            <p className="font-display text-2xl md:text-3xl italic text-gold mb-6">Там, где медицина встречает душу</p>
+            <p className="font-display text-2xl md:text-3xl italic text-gold mb-6">Обрети связь между телом и эмоциями</p>
             <p className="text-muted-foreground max-w-md mb-9 leading-relaxed">
               Помогаю обрести здоровье тела и ясность ума — без противоречий между наукой и природой.
             </p>
