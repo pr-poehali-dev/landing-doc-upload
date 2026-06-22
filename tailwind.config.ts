@@ -18,7 +18,17 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				display: ['Cormorant', 'serif'],
+				sans: ['Montserrat', 'sans-serif']
+			},
 			colors: {
+				gold: 'hsl(var(--gold))',
+				peach: 'hsl(var(--peach))',
+				rose: 'hsl(var(--rose))',
+				violet: 'hsl(var(--violet))',
+				sage: 'hsl(var(--sage))',
+				cosmos: 'hsl(var(--cosmos))',
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
